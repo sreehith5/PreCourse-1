@@ -1,3 +1,14 @@
+/*  
+    Time COmplexity: 
+        for insert: O(n), can be optimized to O(1) by remembering the last node of the LL
+        for print: O(n)
+    Space Complexity:
+        for insert: O(1)
+        for print: O(1)
+
+
+*/
+
 import java.io.*; 
   
 // Java program to implement 
